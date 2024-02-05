@@ -1,1 +1,1 @@
-# PantyPal
+# PantryPal
